@@ -1,3 +1,6 @@
+* Link to tutorial
+https://blog.miguelgrinberg
+
 * Create python venv enviroment
 sudo apt-get install python3-venv
 python3 -m venv venv
