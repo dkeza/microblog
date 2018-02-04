@@ -1,2 +1,2 @@
-SET FLASK_APP=hello.py
+SET FLASK_APP=microblog.py
 flask run
