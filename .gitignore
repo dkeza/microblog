@@ -1,10 +1,47 @@
+# Python bytecode:
+*.py[co]
+
+# Packaging files:
+*.egg*
+
+# Sphinx docs:
+build
+
+# SQLite3 database files:
 *.db
-*.py[cod]
-__pycache__/
+
+# Logs:
+*.log
+
+# Eclipse
+.project
+.pydevproject
+.settings
+
+# Linux Editors
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+*.swp
+*.swo
+
+# Mac
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Virtualenv
+env
+
 venv/
-*.egg-info/
-.installed.cfg
-*.egg
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
+
+.vscode
+__pycache__/
